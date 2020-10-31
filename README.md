@@ -5,7 +5,7 @@ Team Member: Swikriti Khadke
 Project name: Organika Venture
 Efficient utilization of the unused space to solve the unavailability of agricultural land, inorganic food, unemployment, and hunger.
 
-![alt text](https://github.com/swikriti04/Phoenix/assets/organika.png)
+![](https://github.com/swikriti04/Phoenix/blob/master/assets/organika.png)
 
 ## 🤔 Inspiration and 😖 Pain points
 
