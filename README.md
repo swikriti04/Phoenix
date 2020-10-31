@@ -15,9 +15,9 @@ The inability to access sufficient amounts of food is an issue that plagues popu
 
 ## ✅ How we can help
 
-![alt text](https://github.com/swikriti04/Phoenix/blob/main/aero.JPG)
-![alt text](https://github.com/swikriti04/Phoenix/blob/main/hydro.JPG)
-![alt text](https://github.com/swikriti04/Phoenix/blob/main/ponics.JPG)
+![alt text](https://github.com/swikriti04/Phoenix/blob/master/aero.JPG)
+![alt text](https://github.com/swikriti04/Phoenix/blob/master/hydro.JPG)
+![alt text](https://github.com/swikriti04/Phoenix/blob/master/ponics.JPG)
   
 ### 🌳 For rooftop Farming
 * Rooftops farming is generally done using:
