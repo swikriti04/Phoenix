@@ -7,7 +7,7 @@ Efficient utilization of the unused space to solve the unavailability of agricul
 
 ![](https://github.com/swikriti04/Phoenix/blob/master/assets/organika.png)
 
-## 🤔 Inspiration and 😖 Pain points
+## 🤔 Inspiration and 😢 Pain points
 
 Around the world, more than enough food is produced to feed the global population—but more than 690 million people still go hungry. After steadily declining for a decade, world hunger is on the rise, affecting 8.9 percent of people globally. From 2018 to 2019, the number of undernourished people grew by 10 million, and there are nearly 60 million more undernourished people now than in 2014. One in four people in Delhi lives below the national poverty line - which is just US$50 cents per day - so many struggles to feed themselves and their families. Delhi’s vulnerability to high food prices, especially in remote mountain areas, drives hunger. Average food prices in the mountain and hill regions are over 100 percent higher than in other locations.
 
