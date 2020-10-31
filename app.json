@@ -1,0 +1,15 @@
+{
+  "name": "letboat",
+  "displayName": "letboat",
+  "expo": {
+    "name": "letboat",
+    "slug": "letboat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.shahab.altf4"
+    }
+  }
+}
